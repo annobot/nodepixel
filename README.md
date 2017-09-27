@@ -1,2 +1,0 @@
-# nodepixel
-first attempt
